@@ -1,1 +1,4 @@
-
+solcore
+numpy>=2.0
+scipy
+matplotlib
